@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "productName": "Eat",
+    "image": "🍽️",
+    "from": "World",
+    "nutrients": "Developers",
+    "quantity": "4",
+    "price": "🥘",
+    "organic": true,
+    "description": "After waking up and exercising a little, one could take a glass of milk with a good breakfast that consists of snacks that are less oily and more boiled.  One could take bread (fruity) with some butter and jam.  Having some fruit juice or eating fruits and nuts will be good too."
+  },
+  {
+    "id": 1,
+    "productName": "Sleep",
+    "image": "😴",
+    "from": "World",
+    "nutrients": "Developers",
+    "quantity": "8",
+    "price": "🛌",
+    "organic": true,
+    "description": "Sleep plays a vital role in good health and well-being throughout your life. Getting enough quality sleep at the right times can help protect your mental health, physical health, quality of life, and safety. The way you feel while you're awake depends in part on what happens while you're sleeping."
+  },
+  {
+    "id": 2,
+    "productName": "Code",
+    "image": "👩‍💻",
+    "from": "World",
+    "nutrients": "Developers",
+    "quantity": "12",
+    "price": "⚙️",
+    "organic": true,
+    "description": "Programme is a sequence of instructions written in a proper language through which the computer can understand and solve the problem given to it. It is the method by which the whole computing process is directed and controlled. Preparing a programme for the computer is known as “programming”."
+  },
+  {
+    "id": 3,
+    "productName": "Repeat",
+    "image": "🔁",
+    "from": "World",
+    "nutrients": "Developers",
+    "quantity": "24",
+    "price": "🔂",
+    "organic": true,
+    "description": "Repeating daily rotine and it is a programmer life. Repeating daily rotine and it is a programmer life. Repeating daily rotine and it is a programmer life. Repeating daily rotine and it is a programmer life. Repeating daily rotine and it is a programmer life. Repeating daily rotine and it is a programmer life."
+  }
+]

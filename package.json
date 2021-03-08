@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Code Farm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SMJ Developer",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "slugify": "^1.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mj835/Code-Farm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mj835/Code-Farm/issues"
+  },
+  "homepage": "https://github.com/Mj835/Code-Farm#readme"
+}
