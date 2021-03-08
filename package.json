@@ -4,7 +4,7 @@
   "description": "Code Farm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "SMJ Developer",
   "license": "ISC",
